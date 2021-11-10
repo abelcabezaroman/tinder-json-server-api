@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Roberto",
+      "age": 25,
+      "description": "Me encanta viajar...del trabajo a casa y de casa al trabajo.",
+      "categories":["Viajes", "Trabajo"],
+      "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "id": 2,
+      "name": "Paula",
+      "age": 19,
+      "description": "Me considero una persona sincera así que antes que nada deberías saber que soy un bot. Si eso es un problema para ti, gira a la izquierda",
+      "categories":["Sincera", "Fria"],
+      "image": "https://www.whatsappprofiledpimages.com/wp-content/uploads/2021/08/Profile-Photo-Wallpaper.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Diego",
+      "age": 32,
+      "description": "Me encantan el té. El TE quiero, el TE adoro, el TE admiro, el TE deseo...",
+      "categories": ["Te", "Comida", "Complaciente"],
+      "image": "https://wallpaperaccess.com/full/2213424.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Leire",
+      "age": 28,
+      "description": "Campeona mundial de la manta y peli.",
+      "categories": ["Netflix and Chill"],
+      "image": "https://us.123rf.com/450wm/fizkes/fizkes2010/fizkes201001384/157765614-profile-picture-of-smiling-indian-female-isolated-on-grey-studio-background-show-optimism-and-positi.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Luis",
+      "age": 26,
+      "description": "Creo fervormente que existe vida extraterrestre...porque tu belleza no puede ser de este planeta.",
+      "categories":["Deportes", "Vaijes",  "Vino"],
+      "image": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/08/social-media-profile-photos-3.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Lola",
+      "age": 37,
+      "description": "Soy como una vacuna, a veces una pifia y otras una moderna.",
+      "categories": ["Compras", "Alocada"],
+      "image": "https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Pedro",
+      "age": 42,
+      "description": "Me apasiona comprar chicles.",
+      "categories": ["Chicles", "Chicles", "Chicles", "Chicles"],
+      "image": "https://smoothmove.co.za/wp-content/uploads/2021/02/pp1.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Samira",
+      "age": 38,
+      "description": "Coleccionista de paluegos",
+      "categories": ["Comida"],
+      "image": "http://www.darlingdigitalphotography.com/wp-content/uploads/2017/01/selfie-headshot-e1485719447129.jpeg"
+    }
+  ]
+}
