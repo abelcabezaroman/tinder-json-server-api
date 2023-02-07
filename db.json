@@ -37,7 +37,7 @@
       "name": "Luis",
       "age": 26,
       "description": "Creo fervormente que existe vida extraterrestre...porque tu belleza no puede ser de este planeta.",
-      "categories":["Deportes", "Vaijes",  "Vino"],
+      "categories":["Deportes", "Viajes",  "Vino"],
       "image": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/08/social-media-profile-photos-3.jpg"
     },
     {
@@ -63,6 +63,31 @@
       "description": "Coleccionista de paluegos",
       "categories": ["Comida"],
       "image": "http://www.darlingdigitalphotography.com/wp-content/uploads/2017/01/selfie-headshot-e1485719447129.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "Almería",
+      "age": 24,
+      "description": "No soy andaluza ¡Dejad de preguntar!",
+      "categories": ["Viajar", "Comida", "Chicles"],
+      "image": "https://fotografias.antena3.com/clipping/cmsimages01/2021/05/02/26E03450-C5FB-4D16-BC9B-B282AE784352/57.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Ralph",
+      "age": 24,
+      "description": "Me llamo Ralph",
+      "categories": [ "Comida", "Chicles", "Complaciente"],
+      "image": "https://m.media-amazon.com/images/I/51LP4kH5H1L._AC_.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Ali G",
+      "age": 24,
+      "description": "¿Cuando va el hombre a caminar el el sol?… Podríamos ir en invierno cuando hace más frío",
+      "categories": [ "Comida", "Chicles", "Complaciente"],
+      "image": "https://i.discogs.com/eI7PO4iuoDkyC4Hzfu3Ue6cAQwYMhfCnh1LIqVJsnPE/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0OTM3/NS0xMjI3MTk1NDk4/LmpwZWc.jpeg"
     }
+   
   ]
 }
